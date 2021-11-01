@@ -75,15 +75,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hy my Darling, I am Your SweetHeart!
+Hy my Darling, I am Your BABE!
 I am an Anime themed advance group management bot with a lot of Sexy Features.
-Try the Help buttons below to know my abilities [^_^](https://telegra.ph/file/5058a17bd9447eb07a47f.png).
+Try the Help buttons below to know my abilities [^_^](https://telegra.ph/file/6a179d00c7b532de050e3.jpg).
 """
 
 buttons = [
     [
                         InlineKeyboardButton(
-                            text="👥 𝙰𝚍𝚍 𝙲𝚞𝚝𝚒𝚎𝚙𝚒𝚒 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 👥",
+                            text="👥 𝙰𝚍𝚍  𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 👥",
                             url="t.me/Cutiepii_Robot?startgroup=true")
                     ],
                    [
@@ -94,8 +94,8 @@ buttons = [
                                  text="⚙️ 𝙸𝚗𝚕𝚒𝚗𝚎 𝙼𝚘𝚍𝚎 ⚙️",
                                  switch_inline_query_current_chat=""),                   
                        InlineKeyboardButton(
-                             text="👨‍❤️‍💋‍👨 𝙲𝚞𝚝𝚒𝚎𝚙𝚒𝚒 𝙻𝚘𝚟𝚎𝚛𝚜 👨‍❤️‍💋‍👨",
-                             url="https://t.me/Hindi_K_Drama_1")
+                             text="👨‍❤️‍💋‍👨  NIR 👨‍❤️‍💋‍👨",
+                             url="https://t.me/concerning_nir")
                      ],
                      [
                          InlineKeyboardButton(
@@ -103,7 +103,7 @@ buttons = [
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
                              text="📺 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 📺",
-                             url="https://t.me/Black_Knights_Union")
+                             url="https://t.me/concerning_nir")
                   
                      ], 
     ]
